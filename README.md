@@ -19,6 +19,7 @@ The dataset used for training the model is a subset of a larger question dataset
 
 - **Number of samples**: 50,000 question pairs
 - **Labels**: `1` for duplicate questions, `0` for non-duplicate questions.
+- **Dataset Link**: https://www.kaggle.com/c/quora-question-pairs
 
 ## Preprocessing
 
